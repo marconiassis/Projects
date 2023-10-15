@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H1/WGSdLJ3BNnBo81n0jdDaWunNNLqYrC33rNd9z/8+50TW4o9jIM9p76GDl8Vi9GZQyENetT984pQAuIn2UNw==",
+  "dgSpecHash": "hAoo3DvrZ7Ba5yfG4EeKUyjsQfX0uY79Yl9wERV+3fV9EKcB/FCy+PcEpTGKnA4YzIeZoZ7a2/WZ/c308Id+OQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\marco\\OneDrive\\Documentos\\backup_marconi\\Projetos .net\\Clinica\\Clinica.csproj",
+  "projectFilePath": "C:\\Users\\marco\\OneDrive\\Documentos\\backup_marconi\\repo\\Projects\\Clinica\\Clinica.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\marco\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Clinica
 build_property.RootNamespace = Clinica
-build_property.ProjectDir = C:\Users\marco\OneDrive\Documentos\backup_marconi\Projetos .net\Clinica\
+build_property.ProjectDir = C:\Users\marco\OneDrive\Documentos\backup_marconi\repo\Projects\Clinica\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\marco\OneDrive\Documentos\backup_marconi\Projetos .net\Clinica
+build_property.MSBuildProjectDirectory = C:\Users\marco\OneDrive\Documentos\backup_marconi\repo\Projects\Clinica
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Error.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Especialidade/Create.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Especialidade/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXNwZWNpYWxpZGFkZVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Especialidade/Delete.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Especialidade/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXNwZWNpYWxpZGFkZVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Especialidade/Edit.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Especialidade/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXNwZWNpYWxpZGFkZVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Especialidade/index.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Especialidade/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXNwZWNpYWxpZGFkZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Funcionarios/Create.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Funcionarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVuY2lvbmFyaW9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Funcionarios/Delete.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Funcionarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVuY2lvbmFyaW9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Funcionarios/Edit.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Funcionarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVuY2lvbmFyaW9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Funcionarios/index.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Funcionarios/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRnVuY2lvbmFyaW9zXGluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Index.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Paciente/Create.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Paciente/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGVcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Paciente/Delete.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Paciente/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGVcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Paciente/Details.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Paciente/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGVcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Paciente/Edit.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Paciente/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGVcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Paciente/Index.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Paciente/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFjaWVudGVcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Privacy.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Shared/_LoginPartial.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/_ViewImports.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/_ViewStart.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/marco/OneDrive/Documentos/backup_marconi/Projetos .net/Clinica/Pages/Shared/_Layout.cshtml]
+[C:/Users/marco/OneDrive/Documentos/backup_marconi/repo/Projects/Clinica/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-hokfkccryy
