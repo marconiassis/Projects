@@ -1,0 +1,36 @@
+@page
+@model Clinica.Pages_Paciente.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<p>
+    <a asp-page="Create">Adicionar Paciente</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.tPaciente[0].PACIENTENOME)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.tPaciente) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PACIENTENOME)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.IDPACIENTE">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.IDPACIENTE">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.IDPACIENTE">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
